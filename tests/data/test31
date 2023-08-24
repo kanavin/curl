@@ -174,7 +174,7 @@ test31.curl	FALSE	/we/want/	FALSE	0	withspaces	yes  within and around
 %if large-time
 test31.curl	FALSE	/we/want/	FALSE	17517902187	nodomain	value
 %else
-test31.curl    FALSE   /we/want/       FALSE   2118138987      nodomain        value
+test31.curl	FALSE	/we/want/	FALSE	2118138987	nodomain	value
 %endif
 .test31.curl	TRUE	/	FALSE	0	partmatch	present
 #HttpOnly_.test31.curl	TRUE	/p4/	FALSE	0	httponly	myvalue1
