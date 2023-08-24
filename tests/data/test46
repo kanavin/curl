@@ -99,7 +99,7 @@ domain..tld	FALSE	/	FALSE	22139150993	mooo	indeed
 www.loser.com	FALSE	/	FALSE	22139150993	UID	99
 www.fake.come	FALSE	/	FALSE	22147483647	cookiecliente	si
 %else
-%domain..tld	FALSE	/	FALSE	2118138987	ckyPersistent	permanent
+domain..tld	FALSE	/	FALSE	2118138987	ckyPersistent	permanent
 domain..tld	FALSE	/want	FALSE	0	empty	
 #HttpOnly_domain..tld	FALSE	/want	FALSE	2139150993	mooo2	indeed2
 domain..tld	FALSE	/	FALSE	2139150993	mooo	indeed
